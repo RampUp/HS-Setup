@@ -18,11 +18,11 @@ If your computer runs Windows
 ---
 
 1. Download [Python 2.7](http://www.python.org/getit/) and run the .exe (be sure to download the 64 or 32-bit version depending on your system)
- * When you are done installing Python, open up the command prompt (Start → Programs → Accessories → Command Prompt)
- * Your command prompt should look like `C:\Users\YourName>`
- * Type `python` into the command prompt and press Enter
- * You should see something like this:  
- 
+* When you are done installing Python, open up the command prompt (Start → Programs → Accessories → Command Prompt)
+* Your command prompt should look like `C:\Users\YourName>`
+* Type `python` into the command prompt and press Enter
+* You should see something like this:  
+
 	```python
 	Python 2.7.3 (default, Apr 10 2012, 22.71:26) [MSC v.1500 32 bit (Intel)] on win32
 	Type "help", "copyright", "credits" or "license" for more information.
