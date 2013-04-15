@@ -17,7 +17,7 @@ If your computer runs Mac OSX
 If your computer runs Windows
 ---
 
-1. Download [Python 2.7](http://www.python.org/getit/) and run the .exe (be sure to download the 64 or 32-bit version depending on your system)
+1. Download [Python 2.7 (click here)](http://www.python.org/getit/) and run the .exe (be sure to download the 64 or 32-bit version depending on your system)
 * When you are done installing Python, open up the command prompt (Start → Programs → Accessories → Command Prompt)
 * Your command prompt should look like `C:\Users\YourName>`
 * Type `python` into the command prompt and press Enter
