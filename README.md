@@ -33,5 +33,5 @@ If you do not see this, please do not worry. We will help you edit your computer
 
 All set!
 ---
-Awesome, you are all set! We will see you in class. Please be on the lookout for more updates from us. 
+Awesome, you are all set! We will see you in class. Please be on the lookout for more updates from us.   
 Email [Juliana@startupinstitute.com](mailto:juliana@startupinstitute.com) if you have any questions.
