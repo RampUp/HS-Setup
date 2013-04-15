@@ -11,8 +11,7 @@ If your computer runs Mac OSX
 
 2. Install XCode command line tools. These are code [compiling](http://en.wikipedia.org/wiki/Compiler) tools that you can access from the [command line](http://en.wikipedia.org/wiki/Command-line_interface).   
  * Open up XCode from your applications folder 
- * Go to the toolbar: Click Preferences → Downloads → Check install command line tools
-    
+ * Go to the toolbar: Click Preferences → Downloads → Check install command line tools  
 
 3. Download a text editor. We highly recommend (and would prefer you have) Sublime 2, which can be [downloaded for free here](http://www.sublimetext.com/2)
 
@@ -30,8 +29,6 @@ If your computer runs Windows
 	Python 2.7.3 (default, Apr 10 2012, 22.71:26) [MSC v.1500 32 bit (Intel)] on win32
 	Type "help", "copyright", "credits" or "license" for more information.
 	```
- * If you do not see this, please do not worry. We will help you edit your computer's development path when you get to class.
-
-
+ * If you do not see this, please do not worry. We will help you edit your computer's development path when you get to class.  
 
 2. Download a text editor. We highly recommend (and would prefer you have) Sublime 2, which can be [downloaded for free here](http://www.sublimetext.com/2)
