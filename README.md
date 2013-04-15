@@ -30,3 +30,8 @@ If your computer runs Windows
 If you do not see this, please do not worry. We will help you edit your computer's development path when you get to class.   
 
 2. Download a text editor. We highly recommend (and would prefer you have) Sublime 2, which can be [downloaded for free here](http://www.sublimetext.com/2)
+
+All set!
+---
+Awesome, you are all set! We will see you on 4/27 or 5/4.  
+Please email [Juliana@startupinstitute.com](mailto:juliana@startupinstitute.com) if you have any questions.
