@@ -27,8 +27,8 @@ If your computer runs Windows
  * Type `python` into the prompt and press Enter
  * You should see something like this:
  
- `Python 2.7.3 (default, Apr 10 2012, 22.71:26) [MSC v.1500 32 bit (Intel)] on win32`
- `Type "help", "copyright", "credits" or "license" for more information.`
+ `   Python 2.7.3 (default, Apr 10 2012, 22.71:26) [MSC v.1500 32 bit (Intel)] on win32
+     Type "help", "copyright", "credits" or "license" for more information.`
 
 
 2. Download a text editor. We highly recommend (and would prefer you have) Sublime 2, which can be [downloaded for free here](http://www.sublimetext.com/2)
