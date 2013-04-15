@@ -13,6 +13,7 @@ If your computer runs Mac OSX
  * Open up XCode from your applications folder 
  * Go to the toolbar: Click Preferences → Downloads → Check install command line tools
     
+
 3. Download a text editor. We highly recommend (and would prefer you have) Sublime 2, which can be [downloaded for free here](http://www.sublimetext.com/2)
 
 
@@ -30,6 +31,7 @@ If your computer runs Windows
 	Type "help", "copyright", "credits" or "license" for more information.
 	```
  * If you do not see this, please do not worry. We will help you edit your computer's development path when you get to class.
+
 
 
 2. Download a text editor. We highly recommend (and would prefer you have) Sublime 2, which can be [downloaded for free here](http://www.sublimetext.com/2)
