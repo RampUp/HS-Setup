@@ -33,5 +33,5 @@ If you do not see this, please do not worry. We will help you edit your computer
 
 All set!
 ---
-Awesome, you are all set! We will see you on 4/27 or 5/4.  
+Awesome, you are all set! We will see you in class.    
 Please email [Juliana@startupinstitute.com](mailto:juliana@startupinstitute.com) if you have any questions.
