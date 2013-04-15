@@ -1,9 +1,9 @@
 Setup: High School RampUp
 ========
 
-Welcome to the High School RampUp setup page. Please follow the instructions   below to get your computer ready for class on 4/27 or 5/4. 
+Welcome to the High School RampUp setup page. Please follow the instructions below to get your computer ready for class. 
 
-We ask that every student go through this setup on the laptop that they plan to bring to class.
+__We ask that every student go through this setup on the laptop that they plan to bring to class.__
 
 If your computer runs Mac OSX
 ---
@@ -21,3 +21,12 @@ If your computer runs Mac OSX
 If your computer runs Windows
 ---
 
+1. Download [Python 2.7](http://www.python.org/getit/) and run the .exe (be sure to download the 64 or 32-bit version depending on your system)
+ * When you are done installing Python, open up the command prompt (Start → Programs → Accessories → Command Prompt) and type 
+ `C:\Users\YourName> python`
+ You should see something like this:
+ `Python 2.7.3 (default, Apr 10 2012, 22.71:26) [MSC v.1500 32 bit (Intel)] on win32
+ Type "help", "copyright", "credits" or "license" for more information.`
+
+
+2. Download a text editor. We highly recommend (and would prefer you have) Sublime 2, which can be [downloaded for free here](http://www.sublimetext.com/2)
