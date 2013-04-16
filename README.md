@@ -48,23 +48,20 @@ Troubleshooting
 
 Install [homebrew](http://mxcl.github.io/homebrew/) by pasting this command into the command prompt and pressing Enter. (Don't be alarmed, this will take a bit to run.)
 
-	```ruby
 	ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
-	```
+
 Insert the Homebrew directory at the top of your PATH environment variable by typing into your terminal the following two commands and pressing Enter after each one:
 
-	```ruby
 	echo "export PATH=/usr/local/bin:$PATH" >> ~/.bash_profile
 	source ~/.bash_profile
-	brew doctor```
+	brew doctor
 
 At the end of these three commands, your terminals should say `your system raring to brew`
 
 Install Python 2.7 using Homebrew by pasting this command into the command prompt and pressing Enter.
 	
-	```ruby
 	brew install python --framework
-	```
+
 
 All set!
 ---
