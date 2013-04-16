@@ -33,7 +33,11 @@ Add Python 2.7 to your PATH
 	
 	echo "export PATH=/usr/local/share/python:$PATH" >> ~/.bash_profile
 	
-Download a text editor. We highly recommend (and would prefer you have) Sublime 2, which can be [downloaded for free here](http://www.sublimetext.com/2).
+Download the Sublime 2 text editor. It can be [downloaded for free here](http://www.sublimetext.com/2).
+
+Once you download Sublime 2, install its command line tools by entering the following command in the command prompt and pressing Enter:
+
+	ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 
 
 If your computer runs Windows
