@@ -46,7 +46,7 @@ Troubleshooting
 ---
 #### Troubleshooting on Mac OSX
 
-Install [homebrew](http://mxcl.github.io/homebrew/) by pasting this command into the command prompt and pressing Enter. (Don't be alarmed, this will take a bit to run.)
+Install [homebrew](http://mxcl.github.io/homebrew/), a install utility for Mac OSX, by pasting this command into the command prompt and pressing Enter. (Don't be alarmed, this will take a bit to run.)
 
 	ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 
