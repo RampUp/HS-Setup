@@ -15,6 +15,7 @@ If your computer runs Mac OSX
  * Open up XCode from your applications folder 
  * Go to the toolbar: Click Preferences → Downloads → Check install command line tools    
 
+
 3. Install [homebrew](http://mxcl.github.io/homebrew/), a install utility for Mac OSX, by pasting this command into the command prompt and pressing Enter. (Don't be alarmed, this will take a bit to run.)
 
 	```
