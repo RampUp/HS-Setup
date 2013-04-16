@@ -3,7 +3,8 @@ Setup: High School RampUp
 
 Welcome to the High School RampUp setup page. Please follow the instructions below to get your computer ready for class. 
 
-__We ask that every student go through this setup on the laptop that they plan to bring to class.__
+__We ask that every student go through this setup on the laptop that they plan to bring to class.__   
+
 If you have a choice of computers, we would prefer you brought a computer running Mac OSX, as OSX is what our teachers use most often and are therefore the best at troubleshooting.
 
 If your computer runs Mac OSX
