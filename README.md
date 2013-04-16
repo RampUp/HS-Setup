@@ -15,13 +15,14 @@ If your computer runs Mac OSX
 
 3. Install [homebrew](http://mxcl.github.io/homebrew/), a install utility for Mac OSX, by pasting this command into the command prompt and pressing Enter. (Don't be alarmed, this will take a bit to run.)
 
-	ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+	`ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
 
 4. Insert the Homebrew directory at the top of your PATH environment variable by typing into your terminal the following two commands and pressing Enter after each one:
 
+	```
 	echo "export PATH=/usr/local/bin:$PATH" >> ~/.bash_profile
 	source ~/.bash_profile
-	brew doctor
+	brew doctor```
 
  At the end of these three commands, your terminals should say `your system raring to brew`
 
