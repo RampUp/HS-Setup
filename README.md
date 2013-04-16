@@ -11,7 +11,7 @@ If your computer runs Mac OSX
 ---
 1. [Click here to download XCode.](https://developer.apple.com/xcode/ "Download XCode") Xcode is Apple’s development environment. You need it installed before you can install anything else. It comes with tools used to [compile](http://en.wikipedia.org/wiki/Compiler) programs from [source](http://en.wikipedia.org/wiki/Source_code).
 
-2. Install XCode command line tools. These are code [compiling](http://en.wikipedia.org/wiki/Compiler) tools that you can access from the [command line](http://en.wikipedia.org/wiki/Command-line_interface). To do this, open up XCode from your applications folder. Go to the toolbar: Click Preferences → Downloads → Check install command line tools   
+2. Open up XCode from your applications folder and go to the toolbar: Click Preferences → Downloads → Check install command line tools. This will allow you to access code compiling tools from the command line.   
 
 3. Install [homebrew](http://mxcl.github.io/homebrew/), a install utility for Mac OSX, by pasting this command into the command prompt and pressing Enter. (Don't be alarmed, this will take a bit to run.)
 
