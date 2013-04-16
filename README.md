@@ -15,34 +15,39 @@ If your computer runs Mac OSX
 
 3. Install [homebrew](http://mxcl.github.io/homebrew/), a install utility for Mac OSX, by pasting this command into the command prompt and pressing Enter. (Don't be alarmed, this will take a bit to run.)
 
-```
-ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"```
+	```
+	ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+	```
 
 4. Insert the Homebrew directory at the top of your PATH environment variable by typing into your terminal the following two commands and pressing Enter after each one:
 
-```
-echo "export PATH=/usr/local/bin:$PATH" >> ~/.bash_profile
-source ~/.bash_profile
-brew doctor```
+	```
+	echo "export PATH=/usr/local/bin:$PATH" >> ~/.bash_profile
+	source ~/.bash_profile
+	brew doctor
+	```
 
  At the end of these three commands, your terminals should say `your system raring to brew`
 
 5. Install Python 2.7 using Homebrew by pasting this command into the command prompt and pressing Enter.
 	
-```
-brew install python --framework```
+	```
+	brew install python --framework
+	```
 
 6. Add Python 2.7 to your PATH
 	
-```
-echo "export PATH=/usr/local/share/python:$PATH" >> ~/.bash_profile```
+	```
+	echo "export PATH=/usr/local/share/python:$PATH" >> ~/.bash_profile
+	```
 	
 7. Download the Sublime 2 text editor. It can be [downloaded for free here](http://www.sublimetext.com/2).
 
 8. Once you download Sublime 2, install its command line tools by entering the following command in the command prompt and pressing Enter:
 
-```
-ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl```
+	```
+	ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+	```
 
 
 If your computer runs Windows
