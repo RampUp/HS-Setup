@@ -7,35 +7,35 @@ __We ask that every student go through this setup on the laptop that they plan t
 
 If your computer runs Mac OSX
 ---
-[Click here to download XCode.](https://developer.apple.com/xcode/ "Download XCode") Xcode is Apple’s development environment. You need it installed before you can install anything else. It comes with tools used to [compile](http://en.wikipedia.org/wiki/Compiler) programs from [source](http://en.wikipedia.org/wiki/Source_code).
+1. [Click here to download XCode.](https://developer.apple.com/xcode/ "Download XCode") Xcode is Apple’s development environment. You need it installed before you can install anything else. It comes with tools used to [compile](http://en.wikipedia.org/wiki/Compiler) programs from [source](http://en.wikipedia.org/wiki/Source_code).
 
-Install XCode command line tools. These are code [compiling](http://en.wikipedia.org/wiki/Compiler) tools that you can access from the [command line](http://en.wikipedia.org/wiki/Command-line_interface).   
+2. Install XCode command line tools. These are code [compiling](http://en.wikipedia.org/wiki/Compiler) tools that you can access from the [command line](http://en.wikipedia.org/wiki/Command-line_interface).   
  * Open up XCode from your applications folder 
  * Go to the toolbar: Click Preferences → Downloads → Check install command line tools    
 
-Install [homebrew](http://mxcl.github.io/homebrew/), a install utility for Mac OSX, by pasting this command into the command prompt and pressing Enter. (Don't be alarmed, this will take a bit to run.)
+3. Install [homebrew](http://mxcl.github.io/homebrew/), a install utility for Mac OSX, by pasting this command into the command prompt and pressing Enter. (Don't be alarmed, this will take a bit to run.)
 
 	ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 
-Insert the Homebrew directory at the top of your PATH environment variable by typing into your terminal the following two commands and pressing Enter after each one:
+4. Insert the Homebrew directory at the top of your PATH environment variable by typing into your terminal the following two commands and pressing Enter after each one:
 
 	echo "export PATH=/usr/local/bin:$PATH" >> ~/.bash_profile
 	source ~/.bash_profile
 	brew doctor
 
-At the end of these three commands, your terminals should say `your system raring to brew`
+ At the end of these three commands, your terminals should say `your system raring to brew`
 
-Install Python 2.7 using Homebrew by pasting this command into the command prompt and pressing Enter.
+5. Install Python 2.7 using Homebrew by pasting this command into the command prompt and pressing Enter.
 	
 	brew install python --framework
 
-Add Python 2.7 to your PATH
+6. Add Python 2.7 to your PATH
 	
 	echo "export PATH=/usr/local/share/python:$PATH" >> ~/.bash_profile
 	
-Download the Sublime 2 text editor. It can be [downloaded for free here](http://www.sublimetext.com/2).
+7. Download the Sublime 2 text editor. It can be [downloaded for free here](http://www.sublimetext.com/2).
 
-Once you download Sublime 2, install its command line tools by entering the following command in the command prompt and pressing Enter:
+8. Once you download Sublime 2, install its command line tools by entering the following command in the command prompt and pressing Enter:
 
 	ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 
