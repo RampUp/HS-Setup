@@ -5,69 +5,71 @@ Welcome to the High School RampUp setup page. Please follow the instructions bel
 
 __We ask that every student go through this setup on the laptop that they plan to bring to class.__   
 
-If you have a choice of computers to bring, we would prefer you brought a computer running Mac OSX, as OSX is what our teachers use most often and are therefore the best at troubleshooting.
+If you have a choice of computers to bring, we would prefer you brought a computer running Mac OSX, as OSX is what our teachers use most often and are therefore the best at troubleshooting. However, we love Windows and Linux machines too.
 
 If your computer runs Mac OSX
 ---
-1. [Click here to download XCode.](https://developer.apple.com/xcode/ "Download XCode") Xcode is Apple’s development environment. You need it installed before you can install anything else. It comes with tools used to [compile](http://en.wikipedia.org/wiki/Compiler) programs from [source](http://en.wikipedia.org/wiki/Source_code).
+1. Open up your terminal. You can search for the terminal application in the Spotlight window (the magnifying glass on the upper right-hand corner of your screen.)
 
-2. Open up XCode from your applications folder and go to the toolbar: Click Preferences → Downloads → Check install command line tools. This will allow you to access code compiling tools from the command line.   
+2. Type
 
-3. Install [homebrew](http://mxcl.github.io/homebrew/), a install utility for Mac OSX, by pasting this command into the command prompt and pressing Enter. (Don't be alarmed, this will take a bit to run.)
+```
+python 
+```
+And press ENTER. You should see something similar to one of the following:
 
-	```
-	ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
-	```
+```
+Python 2.7.4 (default, Apr 14 2013, 15:47:35)
+[GCC 4.2.1 Compatible Apple LLVM 4.2 (clang-425.0.27)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+```
+NOTE: You may have a verison of Python that is different than 2.7.4. __That's okay__ as long as its above Python 2.3.
 
-4. Insert the Homebrew directory at the top of your PATH environment variable by typing into your terminal the following two commands and pressing Enter after each one:
+Or you should get an error. If you get an error, [download Python (2.7.4 or 2.7.3) from here](http://www.python.org/getit/) and go through the installation instructions for your machience. Please be concious of if your computer needs a 32 or 64-bit install.
 
-	```
-	echo "export PATH=/usr/local/bin:$PATH" >> ~/.bash_profile
-	source ~/.bash_profile
-	brew doctor
-	```
+3. Install a text editor. We highly reccomend Sublime, which is a great free text editor for code. [To download Sublime, follow the instructions here](http://www.sublimetext.com/2). 
 
- At the end of these three commands, your terminals should say `your system raring to brew`
-
-5. Install Python 2.7 using Homebrew by pasting this command into the command prompt and pressing Enter.
-	
-	```
-	brew install python --framework
-	```
-
-6. Add Python 2.7 to your PATH
-	
-	```
-	echo "export PATH=/usr/local/share/python:$PATH" >> ~/.bash_profile
-	```
-	
-7. Download the Sublime 2 text editor. It can be [downloaded for free here](http://www.sublimetext.com/2).
-
-8. Once you download Sublime 2, install its command line tools by entering the following command in the command prompt and pressing Enter:
-
-	```
-	ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-	```
+4. Awesome! You're all set.
 
 
 If your computer runs Windows
 ---
 
-1. Download [Python 2.7 (click here)](http://www.python.org/getit/) and run the .exe (be sure to download the 64 or 32-bit version depending on your system)
-* When you are done installing Python, open up the command prompt (Start → Programs → Accessories → Command Prompt)
-* Your command prompt should look like `C:\Users\YourName>`
-* Type `python` into the command prompt and press Enter
-* You should see something like this:  
+1. Search for your terminal program by typing __cmd__ into the start menu and pressing ENTER.
 
-```python
-Python 2.7.3 (default, Apr 10 2012, 22.71:26) [MSC v.1500 32 bit (Intel)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
+2. Type:
 ```
-If you do not see this, please do not worry. We will help you edit your computer's development PATH when you get to class.   
+python
+```
+And press ENTER. 
 
-2. Download a text editor. We highly recommend (and would prefer you have) Sublime 2, which can be [downloaded for free here](http://www.sublimetext.com/2).
+3. If your system recognizes python, it should return something similar to the following in the cmd window:
+```
+Python 2.6.5 (r265:79063, Mar 20 2010, 14:22:52) [MSC v.1500 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
 
-All set!
----
-Awesome, you are all set! We will see you in class. Please be on the lookout for more updates from us.   
-Email [Juliana@startupinstitute.com](mailto:juliana@startupinstitute.com) if you have any questions.
+Otherwise, if it does not recognize Python, it should return:
+```
+python is not recognized
+```
+In this case, [install Python from 2.7 from here](http://python.org/download)
+
+4. Open powershell (you can do this by searching for powershell in the Start menu) and type:
+```
+python
+```
+
+If it still returns an error enter: 
+```
+[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User")
+```
+And close powershell and open it. Try typing 
+```
+python
+```
+And see if it works (i.e. has >>>). If it does not, try restarting your computer. If not, [email us.](mailto:juliana@startupinstitute.com)
+
+5. Awesome! You're all set.
