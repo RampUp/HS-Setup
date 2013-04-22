@@ -45,31 +45,33 @@ python
 And press ENTER. 
 
 3. If your system recognizes python, it should return something similar to the following in the cmd window:
-```
-Python 2.6.5 (r265:79063, Mar 20 2010, 14:22:52) [MSC v.1500 32 bit (Intel)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
->>>
-```
+	```
+	Python 2.6.5 (r265:79063, Mar 20 2010, 14:22:52) [MSC v.1500 32 bit (Intel)] on win32
+	Type "help", "copyright", "credits" or "license" for more information.
+	>>>
+	```
 
-Otherwise, if it does not recognize Python, it should return:
-```
-python is not recognized
-```
-In this case, [install Python from 2.7 from here](http://python.org/download)
+	Otherwise, if it does not recognize Python, it should return:
+	```
+	python is not recognized
+	```
+	
+	In this case, [install Python from 2.7 from here](http://python.org/download)
 
 4. Open powershell (you can do this by searching for powershell in the Start menu) and type:
-```
-python
-```
+	```
+	python
+	```
 
-If it still returns an error enter: 
-```
-[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User")
-```
-And close powershell and open it. Try typing 
-```
-python
-```
-And see if it works (i.e. has >>>). If it does not, try restarting your computer. If not, [email us.](mailto:juliana@startupinstitute.com)
+	If it still returns an error enter: 
+	```
+	$ [Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User")
+	```
+
+	And close powershell and open it. Try typing 
+	```
+	python
+	```
+	And see if it works (i.e. has >>>). If it does not, try restarting your computer. If not, [email us.](mailto:juliana@startupinstitute.com)
 
 5. Awesome! You're all set.
