@@ -56,7 +56,7 @@ If your computer runs Windows
 	python is not recognized
 	```
 	
-	In this case, [install Python from 2.7 from here](http://python.org/download)
+	In this case, [install Python from 2.7.4 from here](http://python.org/download)
 
 4. Open powershell (you can do this by searching for powershell in the Start menu) and type:
 	```
@@ -74,7 +74,9 @@ If your computer runs Windows
 	```
 	And see if it works (i.e. has >>>). If it does not, try restarting your computer. If not, [email us.](mailto:juliana@startupinstitute.com)
 
-5. Awesome! You're all set.
+5. Install a text editor. We highly reccomend Sublime, which is a great free text editor for code. [To download Sublime, follow the instructions here](http://www.sublimetext.com/2). 
+
+6. Awesome! You're all set.
 
 Credits + Contact Info
 ---
