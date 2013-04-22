@@ -24,11 +24,11 @@ If your computer runs Mac OSX
 	Type "help", "copyright", "credits" or "license" for more information.
 	>>> 
 	```
-	NOTE: You may have a verison of Python that is different than 2.7.4. __That's okay__ as long as its above Python 2.3.
+	NOTE: You may have a version of Python that is different than 2.7.4. __That's okay__ as long as its above Python 2.3.
 
-	Or you should get an error. If you get an error, [download Python (2.7.4 or 2.7.3) from here](http://www.python.org/getit/) and go through the installation instructions for your machience. Please be concious of if your computer needs a 32 or 64-bit install.
+	Or you should get an error. If you get an error, [download Python (2.7.4 or 2.7.3) from here](http://www.python.org/getit/) and go through the installation instructions for your machine. Please be conscious of if your computer needs a 32 or 64-bit install.
 
-3. Install a text editor. We highly reccomend Sublime, which is a great free text editor for code. [To download Sublime, follow the instructions here](http://www.sublimetext.com/2). 
+3. Install a text editor. We highly recommend Sublime, which is a great free text editor for code. [To download Sublime, follow the instructions here](http://www.sublimetext.com/2). 
 
 4. Awesome! You're all set.
 
@@ -58,7 +58,7 @@ If your computer runs Windows
 	
 	In this case, [install Python from 2.7.4 from here](http://python.org/download)
 
-4. Open powershell (you can do this by searching for powershell in the Start menu) and type:
+4. Open __powershell__ (you can do this by searching for powershell in the Start menu) and type:
 	```
 	python
 	```
@@ -74,11 +74,11 @@ If your computer runs Windows
 	```
 	And see if it works (i.e. has >>>). If it does not, try restarting your computer. If not, [email us.](mailto:juliana@startupinstitute.com)
 
-5. Install a text editor. We highly reccomend Sublime, which is a great free text editor for code. [To download Sublime, follow the instructions here](http://www.sublimetext.com/2). 
+5. Install a text editor. We highly recommend Sublime, which is a great free text editor for code. [To download Sublime, follow the instructions here](http://www.sublimetext.com/2). 
 
 6. Awesome! You're all set.
 
 Credits + Contact Info
 ---
 If you have any trouble with these install instructions, please [contact us.](mailto:juliana@startupinstitute.com)
-Thanks to [Learn Python the Hard Way](http://learnpythonthehardway.org/book/ex0.html) and [The Hitchhiker's Guide to Python](https://python-guide.readthedocs.org/en/latest/) for help with install instructions.
+Thanks to [Learn Python the Hard Way](http://learnpythonthehardway.org/book/ex0.html) and [The Hitchhikers Guide to Python](https://python-guide.readthedocs.org/en/latest/) for help with install instructions.
