@@ -65,7 +65,7 @@ If your computer runs Windows
 
 	If it still returns an error enter: 
 	```
-	$ [Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User")
+	 [Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User")
 	```
 
 	And close powershell and open it. Try typing 
@@ -75,3 +75,8 @@ If your computer runs Windows
 	And see if it works (i.e. has >>>). If it does not, try restarting your computer. If not, [email us.](mailto:juliana@startupinstitute.com)
 
 5. Awesome! You're all set.
+
+Credits + Contact Info
+---
+If you have any trouble with these install instructions, please [contact us.](mailto:juliana@startupinstitute.com)
+Thanks to [Learn Python the Hard Way](http://learnpythonthehardway.org/book/ex0.html) and [The Hitchhiker's Guide to Python](https://python-guide.readthedocs.org/en/latest/) for help with install instructions.
