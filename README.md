@@ -13,20 +13,20 @@ If your computer runs Mac OSX
 
 2. Type
 
-```
-python 
-```
-And press ENTER. You should see something similar to one of the following:
+	```
+	python 
+	```
+	And press ENTER. You should see something similar to one of the following:
 
-```
-Python 2.7.4 (default, Apr 14 2013, 15:47:35)
-[GCC 4.2.1 Compatible Apple LLVM 4.2 (clang-425.0.27)] on darwin
-Type "help", "copyright", "credits" or "license" for more information.
->>> 
-```
-NOTE: You may have a verison of Python that is different than 2.7.4. __That's okay__ as long as its above Python 2.3.
+	```
+	Python 2.7.4 (default, Apr 14 2013, 15:47:35)
+	[GCC 4.2.1 Compatible Apple LLVM 4.2 (clang-425.0.27)] on darwin
+	Type "help", "copyright", "credits" or "license" for more information.
+	>>> 
+	```
+	NOTE: You may have a verison of Python that is different than 2.7.4. __That's okay__ as long as its above Python 2.3.
 
-Or you should get an error. If you get an error, [download Python (2.7.4 or 2.7.3) from here](http://www.python.org/getit/) and go through the installation instructions for your machience. Please be concious of if your computer needs a 32 or 64-bit install.
+	Or you should get an error. If you get an error, [download Python (2.7.4 or 2.7.3) from here](http://www.python.org/getit/) and go through the installation instructions for your machience. Please be concious of if your computer needs a 32 or 64-bit install.
 
 3. Install a text editor. We highly reccomend Sublime, which is a great free text editor for code. [To download Sublime, follow the instructions here](http://www.sublimetext.com/2). 
 
@@ -39,10 +39,10 @@ If your computer runs Windows
 1. Search for your terminal program by typing __cmd__ into the start menu and pressing ENTER.
 
 2. Type:
-```
-python
-```
-And press ENTER. 
+	```
+	python
+	```
+	And press ENTER. 
 
 3. If your system recognizes python, it should return something similar to the following in the cmd window:
 	```
